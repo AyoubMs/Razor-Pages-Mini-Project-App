@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DemoLibrary1">
+      <HintPath>..\..\WinFormMiniProjectApp\DemoLibrary1\bin\Debug\netstandard2.0\DemoLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
